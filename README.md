@@ -4,7 +4,7 @@ Solving all 50 SQL problems from LeetCode's SQL study plan — one query at a ti
 
 ## Progress
 
-**5 / 50 completed**
+**6 / 50 completed**
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
@@ -13,6 +13,7 @@ Solving all 50 SQL problems from LeetCode's SQL study plan — one query at a ti
 | 3 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | ✅ |
 | 4 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | ✅ |
 | 5 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | ✅ |
+| 6 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | ✅ |
 
 ## Structure
 
