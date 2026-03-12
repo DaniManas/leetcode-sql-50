@@ -16,7 +16,7 @@ Solving all 50 SQL problems from LeetCode's SQL study plan — one query at a ti
 | 6 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | ✅ |
 | 7 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | ✅ |
 | 8 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | ✅ |
-| 9 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | ✅ |
+| 9 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | ✅ |
 
 ## Structure
 
