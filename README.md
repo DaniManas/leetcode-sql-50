@@ -4,7 +4,7 @@ Solving all 50 SQL problems from LeetCode's SQL study plan — one query at a ti
 
 ## Progress
 
-**9 / 50 completed**
+**11 / 50 completed**
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
@@ -16,7 +16,9 @@ Solving all 50 SQL problems from LeetCode's SQL study plan — one query at a ti
 | 6 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | ✅ |
 | 7 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | ✅ |
 | 8 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | ✅ |
-| 9 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | ✅ |
+| 9 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | ✅ |
+| 10 | [Average Time of Processing per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | Medium | ✅ |
+| 11 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | ✅ |
 
 ## Structure
 
